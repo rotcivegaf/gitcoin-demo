@@ -7,7 +7,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 </td>
 </table>
 
-<center><a href='https://www.youtube.com/watch?v=DJartWzDn0E'><img src='img/youtube.png'></a></center><hr>
+[Star](https://github.com/gitcoinco/gitcoinco/stargazers) and [watch](https://github.com/gitcoinco/gitcoinco/watchers) this github repository to stay up to date, we're pushing new code several times per week!
 
 # Why cryptocurrency
 
@@ -25,7 +25,7 @@ Cryptocurrency allows end-users to send tips and issue funding for Github Issues
 
 Gitcoin is an open source distributed network that makes it easy to monetize your work in open source software.
 
-<a href="https://gitcoin.co/youtube">
+<a href="https://www.youtube.com/watch?v=DJartWzDn0E">
     <img src="img/youtube.png">
 </a>
 
@@ -38,7 +38,7 @@ Read about our culture and mission [here](https://github.com/gitcoinco/gitcoinco
 View our open funded work via this link:
 
 <a href="https://gitcoin.co/explorer?q=gitcoinco">
-    <img src="https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco/web">
+    <img src="img/youtube.png">
 </a>
 
 ## Features
