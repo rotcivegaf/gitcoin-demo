@@ -38,7 +38,7 @@ Read about our culture and mission [here](https://github.com/gitcoinco/gitcoinco
 View our open funded work via this link:
 
 <a href="https://gitcoin.co/explorer?q=gitcoinco">
-    <img src="img/youtube.png">
+    <img src="https://gitcoin.co/funding/embed?repo=https://github.com/gitcoinco/web">
 </a>
 
 ## Features
