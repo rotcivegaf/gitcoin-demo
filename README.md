@@ -7,8 +7,7 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 </td>
 </table>
 
-[Star](https://www.youtube.com/watch?v=DJartWzDn0E) and [watch](https://www.youtube.com/watch?v=DJartWzDn0E) this github repository to stay up to date, we're pushing new code several times per week!
-
+<center><a href='https://www.youtube.com/watch?v=DJartWzDn0E'><img src='img/youtube.png'></a></center><hr>
 
 # Why cryptocurrency
 
